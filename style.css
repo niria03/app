@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #fff7e6;
+  color: #333;
+}
+
+select, button {
+  padding: 0.5rem;
+  margin-top: 1rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
